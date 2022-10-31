@@ -1,6 +1,6 @@
 # free-t-shirt
 
-Make your pull requests for free tshirt
+### Make your pull requests for free tshirt
 @sunithvs
 
 https://github.com/IETCU-SIAS/Hacktoberfest-2022
